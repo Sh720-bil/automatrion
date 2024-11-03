@@ -1,2 +1,2 @@
-# automatrion
- processes to achieve outcomes with minimal human input
+# automation
+to achieve outcomes with minimal human input
